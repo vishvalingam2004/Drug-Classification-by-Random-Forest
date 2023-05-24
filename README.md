@@ -1,4 +1,4 @@
-# Drug-Classification-by-Random-Forest
+# DRUG-CLASSIFICATION BY RANDOM-FOREST CLASSIFIER.
 Classifying the Drugs category
 # DESCRIPTION ABOUT DATASET
 Here we need to classify the given dataset and predict the exact type of drugs.
